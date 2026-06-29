@@ -1,0 +1,1154 @@
+canonical_identifier: bkk:krp/KR3ea001/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ea001/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃帝內經素問
+  identifiers:
+    krp: KR3ea001
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat05100
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea001.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea001_000-jc.yaml, hash: 'sha256:6c8c4a88a0ae3469f597828fd4cafa3877110a29635735df21251b6a3bf67f80'}
+  - {seq: 1, filename: KR3ea001_001-jc.yaml, hash: 'sha256:062e2e3c8cd803dec0cd24c3202f0c04ceaf76d2a7a179d3e7a9dc9c7e0cacad'}
+  - {seq: 2, filename: KR3ea001_002-jc.yaml, hash: 'sha256:0020bef7ac5a6cff15d06473f8d6d04d52c09ae87ccd2b718f65901bb1d63d7b'}
+  - {seq: 3, filename: KR3ea001_003-jc.yaml, hash: 'sha256:bed2fc363dbc7fdc4a90518e324accb1d0ec357dfbfc9a2a9665c047391c86c6'}
+  - {seq: 4, filename: KR3ea001_004-jc.yaml, hash: 'sha256:7d524a7ad1c7d33a7253ff099e7ff2611d6601ebb7e63dc75551c2a5e29d063f'}
+  - {seq: 5, filename: KR3ea001_005-jc.yaml, hash: 'sha256:ab2135e747ed36324a016d56e279ae07a14f2f19e77875902fb7457a84ccf181'}
+  - {seq: 6, filename: KR3ea001_006-jc.yaml, hash: 'sha256:2a8615f4a5216e1b16b210c14922f55a260ed2520d48cca9929fb1606f0da2df'}
+  - {seq: 7, filename: KR3ea001_007-jc.yaml, hash: 'sha256:7066803241fd34a309d0a81118bc3cb3a9c4c6be8bb0a78eddc0e64c456e45bd'}
+  - {seq: 8, filename: KR3ea001_008-jc.yaml, hash: 'sha256:026cd4e9c62226ffe40632b61a20c7bd27b504a2bad6ec9399ba8638394b208b'}
+  - {seq: 9, filename: KR3ea001_009-jc.yaml, hash: 'sha256:30e2190aa693219d2f482966388fc51ceb752dd9d3a678cd69b0a690f3c9751e'}
+  - {seq: 10, filename: KR3ea001_010-jc.yaml, hash: 'sha256:be766de1b4464d45ecc83fbfa17790c31e0aa713d8131f35783695519a5afad6'}
+  - {seq: 11, filename: KR3ea001_011-jc.yaml, hash: 'sha256:1ddc403bea235a252bbda1c7e5da9386e9d79c04aaaad69019e5777668138833'}
+  - {seq: 12, filename: KR3ea001_012-jc.yaml, hash: 'sha256:08721a291b47c8e5a3ab233967dac80ad8ef584a7828efa42a17b7ee20f85878'}
+  - {seq: 13, filename: KR3ea001_013-jc.yaml, hash: 'sha256:4e9979974f75faa188d34a79f51cd045f68f92f0fcf998e42530a90a6acbf485'}
+  - {seq: 14, filename: KR3ea001_014-jc.yaml, hash: 'sha256:9862651b03dbd555f17c2c40a7ee051a50b5e6df5a04cc8cd83dbcd1d30add15'}
+  - {seq: 15, filename: KR3ea001_015-jc.yaml, hash: 'sha256:3ab93f7c053b011f271f0879c081af3d0efcb80ab79ca2df9b9d8cd79bf69475'}
+  - {seq: 16, filename: KR3ea001_016-jc.yaml, hash: 'sha256:a0d4dad2b7b3583de4706f2b4e497e10e2b4f67d2f9897296bb7fb10866ac69d'}
+  - {seq: 17, filename: KR3ea001_017-jc.yaml, hash: 'sha256:6e81d6300463c282159570627d5c2cc144b101d7fb6463b2ff3a27b4e4a60cb2'}
+  - {seq: 18, filename: KR3ea001_018-jc.yaml, hash: 'sha256:b205ee9dfa65b50c5bc5189a234ac6c71deaa27f415ac8c76b334ca106163c11'}
+  - {seq: 19, filename: KR3ea001_019-jc.yaml, hash: 'sha256:0c3bb5d5c655b409587fc204f229b0f134ddaee32f51ddd177c811c4a738250e'}
+  - {seq: 20, filename: KR3ea001_020-jc.yaml, hash: 'sha256:73e608cca5899b4099bb7df11cb146d2c16162539903496910cdaf2381551dc9'}
+  - {seq: 21, filename: KR3ea001_021-jc.yaml, hash: 'sha256:d801993e77372557e41573aba752ac7df91c8a27e16eef88add2a1fdeeb7b54c'}
+  - {seq: 22, filename: KR3ea001_022-jc.yaml, hash: 'sha256:fa383f836a67e8123ffbbc323ce1df53ed587c8bba2cb1cde52837306fd9a261'}
+  - {seq: 23, filename: KR3ea001_023-jc.yaml, hash: 'sha256:89c9431a353eb098276adb746fed47f5a7994833d362903ae592deeeae08376d'}
+  - {seq: 24, filename: KR3ea001_024-jc.yaml, hash: 'sha256:df4ea64e1c049a0a8783ae6bc05e0c3eb43d2ebf55395fd957c716ac655d45d7'}
+  - {seq: 0, filename: KR3ea001_000-jc.yaml, hash: 'sha256:b76c44c5027ce47947baa385779d489e04bfcfc0265859141d45cc8d5fe516d7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea001_000-jc.markers.yaml, hash: 'sha256:580e422eb3db8d71edff8d67632c7c0bc889a95836ad0be64d5ec481635b2457'}
+  - {seq: 1, role: markers, filename: assets/KR3ea001_001-jc.markers.yaml, hash: 'sha256:a59d14fa55a23a9493a43450a4d2a535365b1c8aa225c7f24b2e75565ca211cb'}
+  - {seq: 2, role: markers, filename: assets/KR3ea001_002-jc.markers.yaml, hash: 'sha256:26a0dba28e9706aad46304c5d9fe326bc8c18ceb8a86f13f0a72c03994daea13'}
+  - {seq: 3, role: markers, filename: assets/KR3ea001_003-jc.markers.yaml, hash: 'sha256:73694de3cae6fde5fcbb2c6559ac75df20d8faed23961d7335ab57c9c4011b2d'}
+  - {seq: 4, role: markers, filename: assets/KR3ea001_004-jc.markers.yaml, hash: 'sha256:72cad9f1bf093471106abf4695ee974bc2dce5a0b3d3cc2dc170509defe88cbe'}
+  - {seq: 5, role: markers, filename: assets/KR3ea001_005-jc.markers.yaml, hash: 'sha256:e77ba4a15572e8c8342cf1e2ba869fdbef535965af6d35b9fdc268752a8fcae0'}
+  - {seq: 6, role: markers, filename: assets/KR3ea001_006-jc.markers.yaml, hash: 'sha256:c319ad85fb82934e8a262b369d10897fac219c4aafe2b4357344d973f5c5f25a'}
+  - {seq: 7, role: markers, filename: assets/KR3ea001_007-jc.markers.yaml, hash: 'sha256:4d54a44b988b7c41c27d72e75ffdeedb2dfc2a86f4eee458a401db9c9a2c2054'}
+  - {seq: 8, role: markers, filename: assets/KR3ea001_008-jc.markers.yaml, hash: 'sha256:7b862974ec87c3751669e4e7fde71a6c25f56b979ce7ace05af4930eaad03d35'}
+  - {seq: 9, role: markers, filename: assets/KR3ea001_009-jc.markers.yaml, hash: 'sha256:199be6a475b65fc7aa16eae5de3a807ea6a37df8a28c562f5865041fa5f25c6c'}
+  - {seq: 10, role: markers, filename: assets/KR3ea001_010-jc.markers.yaml, hash: 'sha256:e12d99f771c93b8fd9adf590f01fb24c82d9b9c2c596043d99a40368d6f91ab3'}
+  - {seq: 11, role: markers, filename: assets/KR3ea001_011-jc.markers.yaml, hash: 'sha256:8eddcb5e426d824a79c63fe8aaaa3b6431878118b62d45e4540a3a816a7b3b4f'}
+  - {seq: 12, role: markers, filename: assets/KR3ea001_012-jc.markers.yaml, hash: 'sha256:d1367800ee2e1c222f2ee3d1574aeda9e6134d7d79b2f71c8b22a2b88ba6a33b'}
+  - {seq: 13, role: markers, filename: assets/KR3ea001_013-jc.markers.yaml, hash: 'sha256:f8d5f888d9c1890b975b67615b5cf7e177b9558d6615d36fe6c7d6df804f17c9'}
+  - {seq: 14, role: markers, filename: assets/KR3ea001_014-jc.markers.yaml, hash: 'sha256:b5e2faaa9a7dcaf810d32f81d7de3af979e2026ab3c84179a4f4f16c0e55b028'}
+  - {seq: 15, role: markers, filename: assets/KR3ea001_015-jc.markers.yaml, hash: 'sha256:e65bc282cddef43c2c2d65b56c21575b781bed07f20b5a6cdf219b31e3c72692'}
+  - {seq: 16, role: markers, filename: assets/KR3ea001_016-jc.markers.yaml, hash: 'sha256:2f20e15f26670235c4c143d7c7a02a682f9be7c42119aeaab3af2f657383712d'}
+  - {seq: 17, role: markers, filename: assets/KR3ea001_017-jc.markers.yaml, hash: 'sha256:d1d64f08cb383ac650d32ea13fcacf21e3345fbe3fe3a6e67ea425299582e15d'}
+  - {seq: 18, role: markers, filename: assets/KR3ea001_018-jc.markers.yaml, hash: 'sha256:4ef4723f66354b8bd28ec69e030cfe70926251f3c84abaa7173222871bcfde11'}
+  - {seq: 19, role: markers, filename: assets/KR3ea001_019-jc.markers.yaml, hash: 'sha256:becad4d23f4dd7bc8a20518ea216a723b2ac20dbb474936075a6c5fb409d133e'}
+  - {seq: 20, role: markers, filename: assets/KR3ea001_020-jc.markers.yaml, hash: 'sha256:d6a6b61ec7df1ac82e774079ce381875ea52615b046c4e0a0608a99eb2f6f03b'}
+  - {seq: 21, role: markers, filename: assets/KR3ea001_021-jc.markers.yaml, hash: 'sha256:c5506a72e24eb6f014a99e4b8409a79b1f4ef2c7125f5af3bfe7200df9f4c8f1'}
+  - {seq: 22, role: markers, filename: assets/KR3ea001_022-jc.markers.yaml, hash: 'sha256:666f2af3fba67eaf1fe9cee029046df3d0c3c36b3edb2641f0e6445cd31c09b7'}
+  - {seq: 23, role: markers, filename: assets/KR3ea001_023-jc.markers.yaml, hash: 'sha256:3b49ef4d0863bc9b1a301bfdbb2cb8e134d56ba35af2f6bd276679b2450255b2'}
+  - {seq: 24, role: markers, filename: assets/KR3ea001_024-jc.markers.yaml, hash: 'sha256:9e768ebb9fc32dbaf0769491a8ff43c1fbc8244acc417ece46659e10614cb448'}
+  - {seq: 0, role: markers, filename: assets/KR3ea001_000-jc.markers.yaml, hash: 'sha256:580e422eb3db8d71edff8d67632c7c0bc889a95836ad0be64d5ec481635b2457'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea001_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 659
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea001_jc_000-d3.h1s1
+    span:
+    - front
+    - 659
+    - 1552
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea001_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 3708
+  label: 卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea001_jc_001-d4d2
+    span:
+    - body
+    - 3
+    - 915
+  label: 上古天真論篇第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea001_jc_001-d4d3
+    span:
+    - body
+    - 915
+    - 1542
+  label: 四氣調神大論篇第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea001_jc_001-d4d4
+    span:
+    - body
+    - 1542
+    - 2437
+  label: 生氣通天論篇第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea001_jc_001-d4d5
+    span:
+    - body
+    - 2437
+    - 3708
+  label: 金匱真言論篇第四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea001_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3213
+  label: 卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ea001_jc_002-d5d2
+    span:
+    - body
+    - 3
+    - 1996
+  label: 陰陽應象大論篇第五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea001_jc_002-d5d3
+    span:
+    - body
+    - 1996
+    - 2459
+  label: 陰陰離合論篇第六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea001_jc_002-d5d4
+    span:
+    - body
+    - 2459
+    - 3213
+  label: 陰陽別論篇第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea001_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 2831
+  label: 卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea001_jc_003-d6d2
+    span:
+    - body
+    - 3
+    - 346
+  label: 靈蘭秘典論篇第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea001_jc_003-d6d3
+    span:
+    - body
+    - 346
+    - 1517
+  label: 六節藏象論篇第九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea001_jc_003-d6d4
+    span:
+    - body
+    - 1517
+    - 2379
+  label: 五臟生成篇第十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea001_jc_003-d6d5
+    span:
+    - body
+    - 2379
+    - 2831
+  label: 五臟別論篇第十一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea001_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 2462
+  label: 卷第四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ea001_jc_004-d7d2
+    span:
+    - body
+    - 3
+    - 373
+  label: 異法方宜論篇第十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea001_jc_004-d7d3
+    span:
+    - body
+    - 373
+    - 927
+  label: 移精變氣論篇第十三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea001_jc_004-d7d4
+    span:
+    - body
+    - 927
+    - 1405
+  label: 湯液醪醴論篇第十四
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea001_jc_004-d7d5
+    span:
+    - body
+    - 1405
+    - 1695
+  label: 玉版論要篇第十五
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ea001_jc_004-d7d6
+    span:
+    - body
+    - 1695
+    - 2462
+  label: 診要經終論篇第十六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea001_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 2896
+  label: 卷第五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ea001_jc_005-d8d2
+    span:
+    - body
+    - 3
+    - 1654
+  label: 脈要精微論篇第十七
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ea001_jc_005-d8d3
+    span:
+    - body
+    - 1654
+    - 2896
+  label: 平人氣象論篇第十八
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea001_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 3315
+  label: 卷第六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ea001_jc_006-d9d2
+    span:
+    - body
+    - 3
+    - 2108
+  label: 玉機真臟論篇第十九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ea001_jc_006-d9d3
+    span:
+    - body
+    - 2108
+    - 3315
+  label: 三部九候論篇第二十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ea001_jc_007-d10.h1s1
+    span:
+    - body
+    - 0
+    - 2541
+  label: 卷第七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ea001_jc_007-d10d2
+    span:
+    - body
+    - 3
+    - 550
+  label: 經脈別論篇第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ea001_jc_007-d10d3
+    span:
+    - body
+    - 550
+    - 1625
+  label: 臟氣法時論篇第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ea001_jc_007-d10d4
+    span:
+    - body
+    - 1625
+    - 2085
+  label: 宣明五氣篇第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ea001_jc_007-d10d5
+    span:
+    - body
+    - 2085
+    - 2541
+  label: 血氣形志篇第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ea001_jc_008-d11.h1s1
+    span:
+    - body
+    - 0
+    - 4375
+  label: 卷第八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ea001_jc_008-d11d2
+    span:
+    - body
+    - 3
+    - 651
+  label: 寶命全形論篇第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ea001_jc_008-d11d3
+    span:
+    - body
+    - 651
+    - 1598
+  label: 八正神明論篇第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ea001_jc_008-d11d4
+    span:
+    - body
+    - 1598
+    - 2494
+  label: 離合真邪論篇第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ea001_jc_008-d11d5
+    span:
+    - body
+    - 2494
+    - 3494
+  label: 通評虛實論篇第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ea001_jc_008-d11d6
+    span:
+    - body
+    - 3494
+    - 3994
+  label: 太陰陽明論篇第二十九
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ea001_jc_008-d11d7
+    span:
+    - body
+    - 3994
+    - 4375
+  label: 陽明脈解篇第三十
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea001_jc_009-d12.h1s1
+    span:
+    - body
+    - 0
+    - 2774
+  label: 卷第九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ea001_jc_009-d12d2
+    span:
+    - body
+    - 3
+    - 708
+  label: 熱論篇第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea001_jc_009-d12d3
+    span:
+    - body
+    - 708
+    - 1399
+  label: 刺熱篇第三十二
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea001_jc_009-d12d4
+    span:
+    - body
+    - 1399
+    - 2132
+  label: 評熱病論篇第三十三
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ea001_jc_009-d12d5
+    span:
+    - body
+    - 2132
+    - 2774
+  label: 逆調論篇第三十四
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea001_jc_010-d13.h1s1
+    span:
+    - body
+    - 0
+    - 3184
+  label: 卷第十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ea001_jc_010-d13d2
+    span:
+    - body
+    - 3
+    - 1657
+  label: 瘧論篇第三十五
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea001_jc_010-d13d3
+    span:
+    - body
+    - 1657
+    - 2422
+  label: 刺瘧篇第三十六
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea001_jc_010-d13d4
+    span:
+    - body
+    - 2422
+    - 2665
+  label: 氣厥論篇第三十七
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ea001_jc_010-d13d5
+    span:
+    - body
+    - 2665
+    - 3184
+  label: 咳論篇第三十八
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea001_jc_011-d14.h1s1
+    span:
+    - body
+    - 0
+    - 2591
+  label: 卷第十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ea001_jc_011-d14d2
+    span:
+    - body
+    - 4
+    - 1001
+  label: 舉痛論篇第三十九
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea001_jc_011-d14d3
+    span:
+    - body
+    - 1001
+    - 1734
+  label: 腹中論篇第四十
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ea001_jc_011-d14d4
+    span:
+    - body
+    - 1734
+    - 2591
+  label: 刺腰痛篇第四十一
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ea001_jc_012-d15.h1s1
+    span:
+    - body
+    - 0
+    - 3063
+  label: 卷第十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ea001_jc_012-d15d2
+    span:
+    - body
+    - 4
+    - 749
+  label: 風論篇第四十二
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ea001_jc_012-d15d3
+    span:
+    - body
+    - 749
+    - 1610
+  label: 痹論篇第四十三
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ea001_jc_012-d15d4
+    span:
+    - body
+    - 1610
+    - 2206
+  label: 痿論篇第四十四
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ea001_jc_012-d15d5
+    span:
+    - body
+    - 2206
+    - 3063
+  label: 厥論篇第四十五
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ea001_jc_013-d16.h1s1
+    span:
+    - body
+    - 0
+    - 3110
+  label: 卷第十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ea001_jc_013-d16d2
+    span:
+    - body
+    - 4
+    - 613
+  label: 病能論篇第四十六
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ea001_jc_013-d16d3
+    span:
+    - body
+    - 613
+    - 1399
+  label: 奇病論篇第四十七
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ea001_jc_013-d16d4
+    span:
+    - body
+    - 1399
+    - 2079
+  label: 大奇論篇第四十八
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ea001_jc_013-d16d5
+    span:
+    - body
+    - 2079
+    - 3110
+  label: 脈解篇第四十九
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea001_jc_014-d17.h1s1
+    span:
+    - body
+    - 0
+    - 2293
+  label: 卷第十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ea001_jc_014-d17d2
+    span:
+    - body
+    - 4
+    - 240
+  label: 刺要論篇第五十
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea001_jc_014-d17d3
+    span:
+    - body
+    - 240
+    - 424
+  label: 刺齊論篇第五十一
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea001_jc_014-d17d4
+    span:
+    - body
+    - 424
+    - 857
+  label: 刺禁論篇第五十二
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea001_jc_014-d17d5
+    span:
+    - body
+    - 857
+    - 1092
+  label: 刺志論篇第五十三
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea001_jc_014-d17d6
+    span:
+    - body
+    - 1092
+    - 1778
+  label: 針解篇第五十四
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ea001_jc_014-d17d7
+    span:
+    - body
+    - 1778
+    - 2293
+  label: 長刺節論篇第五十五
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea001_jc_015-d18.h1s1
+    span:
+    - body
+    - 0
+    - 2274
+  label: 卷第十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3ea001_jc_015-d18d2
+    span:
+    - body
+    - 4
+    - 546
+  label: 皮部論篇第五十六
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea001_jc_015-d18d3
+    span:
+    - body
+    - 546
+    - 698
+  label: 經絡論篇第五十七
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea001_jc_015-d18d4
+    span:
+    - body
+    - 698
+    - 1515
+  label: 氣穴論篇第五十八
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ea001_jc_015-d18d5
+    span:
+    - body
+    - 1515
+    - 2274
+  label: 氣府論篇第五十九
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ea001_jc_016-d19.h1s1
+    span:
+    - body
+    - 0
+    - 1759
+  label: 卷第十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3ea001_jc_016-d19d2
+    span:
+    - body
+    - 4
+    - 983
+  label: 骨空論篇第六十
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ea001_jc_016-d19d3
+    span:
+    - body
+    - 983
+    - 1759
+  label: 水熱穴論篇第六十一
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ea001_jc_017-d20.h1s1
+    span:
+    - body
+    - 0
+    - 1994
+  label: 卷第十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3ea001_jc_017-d20d2
+    span:
+    - body
+    - 4
+    - 1994
+  label: 調經論篇第六十二
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ea001_jc_018-d21.h1s1
+    span:
+    - body
+    - 0
+    - 2842
+  label: 卷第十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3ea001_jc_018-d21d2
+    span:
+    - body
+    - 4
+    - 1527
+  label: 繆刺論篇第六十三
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ea001_jc_018-d21d3
+    span:
+    - body
+    - 1527
+    - 2158
+  label: 四時刺逆從論篇第六十四
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ea001_jc_018-d21d4
+    span:
+    - body
+    - 2158
+    - 2842
+  label: 標本病傳論篇第六十五
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea001_jc_019-d22.h1s1
+    span:
+    - body
+    - 0
+    - 4932
+  label: 卷第十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3ea001_jc_019-d22d2
+    span:
+    - body
+    - 4
+    - 1136
+  label: 天元紀大論篇第六十六
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea001_jc_019-d22d3
+    span:
+    - body
+    - 1136
+    - 2809
+  label: 五運行大論篇第六十七
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ea001_jc_019-d22d4
+    span:
+    - body
+    - 2809
+    - 4932
+  label: 六微旨大論篇第六十八
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ea001_jc_020-d23.h1s1
+    span:
+    - body
+    - 0
+    - 6959
+  label: 卷第二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3ea001_jc_020-d23d2
+    span:
+    - body
+    - 4
+    - 2813
+  label: 氣交變大論篇第六十九
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ea001_jc_020-d23d3
+    span:
+    - body
+    - 2813
+    - 6959
+  label: 五常政大論篇第七十
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ea001_jc_021-d24.h1s1
+    span:
+    - body
+    - 0
+    - 16392
+  label: 卷第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR3ea001_jc_021-d24d2
+    span:
+    - body
+    - 5
+    - 9323
+  label: 六元正紀大論篇第七十一
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ea001_jc_021-d24d3
+    span:
+    - body
+    - 9323
+    - 12370
+  label: 刺法論篇第七十二
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR3ea001_jc_021-d24d4
+    span:
+    - body
+    - 12370
+    - 16392
+  label: 本病論篇第七十三
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR3ea001_jc_022-d25.h1s1
+    span:
+    - body
+    - 0
+    - 7061
+  label: 卷第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR3ea001_jc_022-d25d2
+    span:
+    - body
+    - 5
+    - 7061
+  label: 至真要大論篇第七十四
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea001_jc_023-d26.h1s1
+    span:
+    - body
+    - 0
+    - 2254
+  label: 卷第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR3ea001_jc_023-d26d2
+    span:
+    - body
+    - 5
+    - 424
+  label: 著至教論篇第七十五
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea001_jc_023-d26d3
+    span:
+    - body
+    - 424
+    - 1152
+  label: 示從容論篇第七十六
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea001_jc_023-d26d4
+    span:
+    - body
+    - 1152
+    - 1844
+  label: 䟽五過論篇第七十七
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR3ea001_jc_023-d26d5
+    span:
+    - body
+    - 1844
+    - 2254
+  label: 徵四失論篇第七十八
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ea001_jc_024-d27.h1s1
+    span:
+    - body
+    - 0
+    - 2067
+  label: 卷第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR3ea001_jc_024-d27d2
+    span:
+    - body
+    - 5
+    - 720
+  label: 陰陽類論篇第七十九
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ea001_jc_024-d27d3
+    span:
+    - body
+    - 720
+    - 1413
+  label: 方盛衰論篇第八十
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR3ea001_jc_024-d27d4
+    span:
+    - body
+    - 1413
+    - 2067
+  label: 解精微論篇第八十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea001_jc_000-d28.h1s1
+    span:
+    - front
+    - 0
+    - 351
+  label: 後序
+  type: section
+  level: 1
+hash: sha256:30ddc963b4ff38f9285f2434bb8a0ec234b3aa5fcc554b5c4fd2225c7a518152
