@@ -651,7 +651,6 @@ markers:
   - {type: 'tls:seg', offset: 1438, content: '', id: KR3ea001_jc_017-d20.d2.p4s136}
   - {type: punctuation, offset: 1445, content: ，, id: KR3ea001_jc_017-bkkpn322}
   - {type: 'tls:seg', offset: 1445, content: '', id: KR3ea001_jc_017-d20.d2.p4s137}
-  - {type: substitution, offset: 1447, original: 慄, replacement: 栗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0895}}
   - {type: punctuation, offset: 1448, content: 。, id: KR3ea001_jc_017-bkkpn323}
   - {type: 'tls:seg', offset: 1448, content: '', id: KR3ea001_jc_017-d20.d2.p4s138}
   - {type: punctuation, offset: 1450, content: ：, id: KR3ea001_jc_017-bkkpn324}
@@ -878,7 +877,6 @@ markers:
   - {type: 'tls:seg', offset: 1932, content: '', id: KR3ea001_jc_017-d20.d2.p4s249}
   - {type: punctuation, offset: 1935, content: ，, id: KR3ea001_jc_017-bkkpn435}
   - {type: 'tls:seg', offset: 1935, content: '', id: KR3ea001_jc_017-d20.d2.p4s250}
-  - {type: substitution, offset: 1938, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4116}}
   - {type: punctuation, offset: 1939, content: ；, id: KR3ea001_jc_017-bkkpn436}
   - {type: 'tls:seg', offset: 1939, content: '', id: KR3ea001_jc_017-d20.d2.p4s251}
   - {type: punctuation, offset: 1944, content: ，, id: KR3ea001_jc_017-bkkpn437}
@@ -911,4 +909,4 @@ markers:
   - {type: punctuation, offset: 1994, content: ), id: KR3ea001_jc_017-bkkpn452}
   - {type: xml-element, offset: 1994, content: '', id: KR3ea001_jc_017-d20.d2p6_end, name: p, role: close, attrs: {'xml:id': KR3ea001_jc_017-d20.d2p6}}
   back: []
-hash: sha256:480db883f67816c98ed4d7c4adb44c156f86b5500f8e571c093b693a567bea29
+hash: sha256:ea4f7ae61e219986002e15d58c069f748cb621e0648ce6261e31fa4d78d167ca
