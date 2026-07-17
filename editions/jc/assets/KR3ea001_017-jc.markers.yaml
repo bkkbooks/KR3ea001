@@ -902,11 +902,14 @@ markers:
   - {type: punctuation, offset: 1985, content: ：, id: KR3ea001_jc_017-bkkpn446}
   - {type: 'tls:seg', offset: 1985, content: '', id: KR3ea001_jc_017-d20.d2.p6s2}
   - {type: punctuation, offset: 1986, content: (, id: KR3ea001_jc_017-bkkpn447}
+  - {type: voice, offset: 1986, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1988, content: ), id: KR3ea001_jc_017-bkkpn448}
   - {type: punctuation, offset: 1989, content: (, id: KR3ea001_jc_017-bkkpn449}
+  - {type: voice, offset: 1989, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1991, content: ), id: KR3ea001_jc_017-bkkpn450}
   - {type: punctuation, offset: 1992, content: (, id: KR3ea001_jc_017-bkkpn451}
+  - {type: voice, offset: 1992, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1994, content: ), id: KR3ea001_jc_017-bkkpn452}
   - {type: xml-element, offset: 1994, content: '', id: KR3ea001_jc_017-d20.d2p6_end, name: p, role: close, attrs: {'xml:id': KR3ea001_jc_017-d20.d2p6}}
   back: []
-hash: sha256:d1d64f08cb383ac650d32ea13fcacf21e3345fbe3fe3a6e67ea425299582e15d
+hash: sha256:cf8634e1d0f06e1572016f6c13628e196c603392cba059f31226e4fabb152f4f

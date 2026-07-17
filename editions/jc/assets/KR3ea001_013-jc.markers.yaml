@@ -1214,6 +1214,7 @@ markers:
   - {type: punctuation, offset: 3064, content: ：, id: KR3ea001_jc_013-bkkpn607}
   - {type: 'tls:seg', offset: 3064, content: '', id: KR3ea001_jc_013-d16.d5.p4s2}
   - {type: punctuation, offset: 3065, content: (, id: KR3ea001_jc_013-bkkpn608}
+  - {type: voice, offset: 3065, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3067, content: ), id: KR3ea001_jc_013-bkkpn609}
   - {type: 'tls:seg-start', offset: 3068, content: '', id: KR3ea001_jc_013-d16.d5.p4s3, seg_type: comm, member_ids: [KR3ea001_jc_013-d16.d5.p4s3]}
   - {type: 'tls:seg', offset: 3068, content: '', id: KR3ea001_jc_013-d16.d5.p4s3}
@@ -1244,6 +1245,7 @@ markers:
   - {type: 'tls:seg-end', offset: 3086, content: '', id: KR3ea001_jc_013-d16.d5.p6s5_end, seg_type: comm}
   - {type: 'tls:seg', offset: 3086, content: '', id: KR3ea001_jc_013-d16.d5.p6s6}
   - {type: punctuation, offset: 3087, content: (, id: KR3ea001_jc_013-bkkpn619}
+  - {type: voice, offset: 3087, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3089, content: ), id: KR3ea001_jc_013-bkkpn620}
   - {type: xml-element, offset: 3089, content: '', id: KR3ea001_jc_013-d16.d5p6_end, name: p, role: close, attrs: {'xml:id': KR3ea001_jc_013-d16.d5p6}}
   - {type: xml-element, offset: 3089, content: '', id: KR3ea001_jc_013-d16.d5p8, name: p, role: open, attrs: {'xml:id': KR3ea001_jc_013-d16.d5p8}}
@@ -1273,7 +1275,8 @@ markers:
   - {type: punctuation, offset: 3107, content: ：, id: KR3ea001_jc_013-bkkpn628}
   - {type: 'tls:seg', offset: 3107, content: '', id: KR3ea001_jc_013-d16.d5.p10s2}
   - {type: punctuation, offset: 3108, content: (, id: KR3ea001_jc_013-bkkpn629}
+  - {type: voice, offset: 3108, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3110, content: ), id: KR3ea001_jc_013-bkkpn630}
   - {type: xml-element, offset: 3110, content: '', id: KR3ea001_jc_013-d16.d5p10_end, name: p, role: close, attrs: {'xml:id': KR3ea001_jc_013-d16.d5p10}}
   back: []
-hash: sha256:f8d5f888d9c1890b975b67615b5cf7e177b9558d6615d36fe6c7d6df804f17c9
+hash: sha256:8b02b07b41fc071f758d99a3c9cedc1211d3e96ecaaf328d36784d1c57d7419d

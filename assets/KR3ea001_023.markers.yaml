@@ -988,6 +988,7 @@ markers:
   - {type: punctuation, offset: 2222, content: ：, id: KR3ea001_jc_023-bkkpn486}
   - {type: 'tls:seg', offset: 2222, content: '', id: KR3ea001_jc_023-d26.d5.p4s2}
   - {type: punctuation, offset: 2223, content: (, id: KR3ea001_jc_023-bkkpn487}
+  - {type: voice, offset: 2223, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2225, content: ), id: KR3ea001_jc_023-bkkpn488}
   - {type: xml-element, offset: 2225, content: '', id: KR3ea001_jc_023-d26.d5p4_end, name: p, role: close, attrs: {'xml:id': KR3ea001_jc_023-d26.d5p4}}
   - {type: xml-element, offset: 2225, content: '', id: KR3ea001_jc_023-d26.d5p6, name: p, role: open, attrs: {'xml:id': KR3ea001_jc_023-d26.d5p6}}
@@ -1012,6 +1013,7 @@ markers:
   - {type: 'tls:seg-end', offset: 2241, content: '', id: KR3ea001_jc_023-d26.d5.p8s3_end, seg_type: comm}
   - {type: 'tls:seg', offset: 2241, content: '', id: KR3ea001_jc_023-d26.d5.p8s4}
   - {type: punctuation, offset: 2242, content: (, id: KR3ea001_jc_023-bkkpn495}
+  - {type: voice, offset: 2242, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2244, content: ), id: KR3ea001_jc_023-bkkpn496}
   - {type: xml-element, offset: 2244, content: '', id: KR3ea001_jc_023-d26.d5p8_end, name: p, role: close, attrs: {'xml:id': KR3ea001_jc_023-d26.d5p8}}
   - {type: xml-element, offset: 2244, content: '', id: KR3ea001_jc_023-d26.d5p10, name: p, role: open, attrs: {'xml:id': KR3ea001_jc_023-d26.d5p10}}
@@ -1019,9 +1021,11 @@ markers:
   - {type: punctuation, offset: 2248, content: ：, id: KR3ea001_jc_023-bkkpn497}
   - {type: 'tls:seg', offset: 2248, content: '', id: KR3ea001_jc_023-d26.d5.p10s2}
   - {type: punctuation, offset: 2249, content: (, id: KR3ea001_jc_023-bkkpn498}
+  - {type: voice, offset: 2249, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2251, content: ), id: KR3ea001_jc_023-bkkpn499}
   - {type: punctuation, offset: 2252, content: (, id: KR3ea001_jc_023-bkkpn500}
+  - {type: voice, offset: 2252, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2254, content: ), id: KR3ea001_jc_023-bkkpn501}
   - {type: xml-element, offset: 2254, content: '', id: KR3ea001_jc_023-d26.d5p10_end, name: p, role: close, attrs: {'xml:id': KR3ea001_jc_023-d26.d5p10}}
   back: []
-hash: sha256:695163796483b39b3424ad49515cbf9e2cee2695224cd9c331ff5aa110d735cc
+hash: sha256:de752e6bc51c5f05c8352ba7f311e63365d4c2e626710e88dd600bd324adf646
